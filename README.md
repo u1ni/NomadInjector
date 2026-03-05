@@ -30,7 +30,7 @@ C# WPF LoadLibraryA Injector and Process Diagnostic Tool.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Deportando/NomadInjector.git](https://github.com/Deportando/NomadInjector.git)
+    git clone [https://github.com/u1ni/NomadInjector.git](https://github.com/u1ni/NomadInjector.git)
     ```
 
 2.  **Open the solution:**
@@ -66,6 +66,6 @@ If you find this tool useful and would like to support continued development, an
 [> VT Link <](https://www.virustotal.com/gui/file/c3b6866e64e7b9f27d37b061c90efd81cce53f57e1ada6b655e0ed6e111a9289?nocache=1)
 ***
 
-## License Information ⚖️
+## License Information 
 
 This project is licensed under the **MIT License**.
