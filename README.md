@@ -1,8 +1,8 @@
-# NomadInjector ✨
+# NomadInjector 
 
 C# WPF LoadLibraryA Injector and Process Diagnostic Tool.
 
-## Key Features & Benefits 🔑
+## Key Features & Benefits 
 
 * **DLL Injection:** Inject DLLs into running processes using the **LoadLibraryA** technique.
 * **Process Diagnostic:** Provides detailed information about running processes and their loaded modules.
@@ -19,14 +19,14 @@ C# WPF LoadLibraryA Injector and Process Diagnostic Tool.
 
 ***
 
-## Prerequisites & Dependencies 🖥️
+## Prerequisites & Dependencies 
 
 * **.NET Framework 4.7.2 or higher:** Required to run the application.
 * **Windows Operating System:** Tested primarily on Windows.
 
 ***
 
-## Installation & Setup Instructions ⚙️
+## Installation & Setup Instructions 
 
 1.  **Clone the repository:**
     ```bash
@@ -46,7 +46,7 @@ C# WPF LoadLibraryA Injector and Process Diagnostic Tool.
 
 ***
 
-## Support and Donations 🙏
+## Support and Donations 
 
 If you find this tool useful and would like to support continued development, any contributions are greatly appreciated!
 
