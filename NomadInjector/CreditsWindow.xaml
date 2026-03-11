@@ -25,7 +25,7 @@
         <TextBlock Text="Uni" Margin="0,0,0,10"/>
 
         <TextBlock FontWeight="SemiBold" Text="Links:"/>
-        <TextBlock Text="https://github.com/Deportando/NomadInjector"
+        <TextBlock Text="https://github.com/u1ni/NomadInjector"
                    TextDecorations="Underline" Foreground="Blue" Cursor="Hand"
                    MouseDown="Hyperlink_Click" Margin="0,0,0,10"/>
 
